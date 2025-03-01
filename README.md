@@ -67,13 +67,15 @@ Follow the on-screen instructions to input data (e.g., soil details, plant image
 Python 🐍
 Machine Learning 🤖 (Scikit-learn, TensorFlow, PyTorch)
 Computer Vision 📸 (OpenCV)
-Flask/Django 🌐 (For web-based interaction)
+streamlit 
 Weather APIs ⛅ (For real-time weather updates)
 
 👨‍💻 Contributors
 Jeevan M 
 Muthuraja
 Divyanshu Majhi
+Abhigyan
+Sriman Somu
 
 ⚠️ Disclaimer
 This is an open-source project, and no official licenses or warranties are provided. Users are encouraged to use and modify the code as needed for research and development purposes.
