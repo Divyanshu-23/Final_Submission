@@ -77,6 +77,4 @@ Divyanshu Majhi
 Abhigyan
 Sriman Somu
 
-⚠️ Disclaimer
-This is an open-source project, and no official licenses or warranties are provided. Users are encouraged to use and modify the code as needed for research and development purposes.
 
