@@ -73,7 +73,7 @@ Weather APIs ⛅ (For real-time weather updates)
 👨‍💻 Contributors
 Jeevan M 
 Muthuraja
-Divyanshu Majhi
+Divyanshu Majhi (Building Streamlit Web Application and Deployment of Project also Admin responsibilities of the Team.)
 Abhigyan
 Sriman Somu
 
